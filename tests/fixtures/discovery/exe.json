@@ -1,0 +1,18 @@
+{
+ "630": "/System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter",
+ "644": "/usr/libexec/rapportd",
+ "1561": "/Users/me/Applications/Claude对话导出.app/Contents/MacOS/Claude对话导出",
+ "8102": "/Users/me/.local/share/uv/python/cpython-3.12.14-macos-aarch64-none/bin/python3.12",
+ "16443": "/Applications/Proxy Tool.app/Contents/MacOS/proxy-tool",
+ "19916": "/Applications/QQ.app/Contents/MacOS/QQ",
+ "19946": "/Users/me/Library/Group Containers/FN2V63AD2J.com.tencent/qqex/mac-shell/7.0.2-53644/QQEXDOC.app/Contents/MacOS/QQEXDOC",
+ "28220": "/Applications/Visual Studio Code.app/Contents/MacOS/Code",
+ "28246": "/Applications/Visual Studio Code.app/Contents/Frameworks/Code Helper (Plugin).app/Contents/MacOS/Code Helper (Plugin)",
+ "43251": "/Applications/wpsoffice.app/Contents/MacOS/wpsoffice",
+ "48490": "/Applications/NeteaseMusic.app/Contents/MacOS/NeteaseMusic",
+ "56596": "/Applications/WeChat.app/Contents/MacOS/WeChat",
+ "69390": "/Users/me/.local/share/mise/installs/process-compose/1.122.0/process-compose",
+ "69391": "/Applications/Ollama.app/Contents/Resources/ollama",
+ "69392": "/opt/homebrew/Cellar/postgresql@17/17.11/bin/postgres",
+ "99938": "/Applications/wpsoffice.app/Contents/SharedSupport/wpscloudsvr.app/Contents/MacOS/wpscloudsvr"
+}

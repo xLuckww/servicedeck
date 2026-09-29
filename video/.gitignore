@@ -1,0 +1,4 @@
+# 渲染输出、音乐与音效不提交（设计文档决策 V13）
+out/
+assets/audio/
+assets/fonts/src/

@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>ServiceDeck</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="summary" id="summary" title="整体状态">
+      <span class="dot" id="summary-dot"></span>
+      <span id="summary-text">正在读取…</span>
+    </div>
+    <input id="search" type="search" placeholder="搜索名称、端口、命令" autocomplete="off" spellcheck="false">
+    <div class="top-actions">
+      <button id="btn-start-all" title="启动所有跟随「全部启动」的服务">全部启动</button>
+      <button id="btn-stop-all" title="停止全部服务和服务管理器">全部停止</button>
+      <button id="btn-add" class="primary" title="新增服务（⌘N）">＋ 新增服务</button>
+      <button id="btn-settings" class="icon" title="设置">⚙︎</button>
+    </div>
+  </header>
+  <div id="banner" class="banner" hidden></div>
+  <main>
+    <aside id="list" aria-label="服务列表"></aside>
+    <section id="detail" aria-live="polite"></section>
+  </main>
+  <div id="modal-root"></div>
+  <div id="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>

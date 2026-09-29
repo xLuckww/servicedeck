@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>ServiceDeck 宣传片</title>
+<link rel="stylesheet" href="stage.css">
+</head>
+<body>
+<div id="viewport"><div id="stage"></div></div>
+<div id="controls">
+  <button id="play">播放</button>
+  <span class="time" id="time">0:00.00</span>
+  <input id="scrub" type="range" min="0" step="0.0166667" value="0">
+  <div id="segs"></div>
+  <label><input type="checkbox" id="safe-toggle"> 安全区</label>
+</div>
+<script src="ui.js"></script>
+<script src="props.js"></script>
+<script src="highlights.js"></script>
+<script src="act3.js"></script>
+<script src="scenes.js"></script>
+<script src="timeline.js"></script>
+<script src="player.js"></script>
+</body>
+</html>
